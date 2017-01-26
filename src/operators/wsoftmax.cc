@@ -1,4 +1,4 @@
-#include "./wsoftmax-inl.h"
+#include "wsoftmax-inl.h"
 #include <vector>
 
 namespace mxnet {

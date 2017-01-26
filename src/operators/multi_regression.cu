@@ -1,5 +1,5 @@
-#include "./multi_regression-inl.h"
-#include "../../src/operator/mshadow_op.h"
+#include "multi_regression-inl.h"
+#include "mshadow_op.h"
 
 namespace mxnet {
 namespace op {

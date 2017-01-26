@@ -1,6 +1,6 @@
-#include "./wsoftmax-inl.h"
+#include "wsoftmax-inl.h"
 #include <stdio.h>
-#include "../../src/operator/mshadow_op.h"
+#include "mshadow_op.h"
 
 namespace mxnet {
 namespace op {
